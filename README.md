@@ -8,7 +8,8 @@ AnveshAI Edge is a terminal-based AI assistant designed to run entirely on-devic
 
 ## Links
 
-- Hugging Face: *[(Click Here!)](https://huggingface.co/AnveshAI/AnveshAI-Edge-V2)*
+- Hugging Face: *[Click Here!](https://huggingface.co/AnveshAI/AnveshAI-Edge-V2)*
+- Zenodo: *Coming Soon!*
 
 ---
 
