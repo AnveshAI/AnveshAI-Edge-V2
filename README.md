@@ -6,6 +6,25 @@ AnveshAI Edge is a terminal-based AI assistant designed to run entirely on-devic
 
 ---
 
+## Table of Contents
+
+1. [Links](#links)
+2. [Architecture Overview](#architecture-overview)
+3. [Components](#components)
+4. [JEE Advanced Domain Coverage](#jee-advanced-domain-coverage)
+5. [Question Bank](#question-bank)
+6. [Advanced Math Engine](#advanced-math-engine)
+7. [Reasoning Engine](#reasoning-engine)
+8. [Getting Started](#getting-started)
+9. [Usage Examples](#usage-examples)
+10. [Commands](#commands)
+11. [Design Principles](#design-principles)
+12. [Current Limitations](#current-limitations)
+13. [File Structure](#file-structure)
+14. [Technical Details](#technical-details)
+
+---
+
 ## Links
 
 - Hugging Face: *[Click Here!](https://huggingface.co/AnveshAI/AnveshAI-Edge-V2)*
@@ -30,25 +49,6 @@ AnveshAI Edge is a terminal-based AI assistant designed to run entirely on-devic
 | Routing accuracy | 100% |
 | Average latency | 0.3 ms |
 | Main remaining bottleneck | Primarily solver coverage gaps |
-
----
-
-## Table of Contents
-
-1. [Links](#links)
-2. [Architecture Overview](#architecture-overview)
-3. [Components](#components)
-4. [JEE Advanced Domain Coverage](#jee-advanced-domain-coverage)
-5. [Question Bank](#question-bank)
-6. [Advanced Math Engine](#advanced-math-engine)
-7. [Reasoning Engine](#reasoning-engine)
-8. [Getting Started](#getting-started)
-9. [Usage Examples](#usage-examples)
-10. [Commands](#commands)
-11. [Design Principles](#design-principles)
-12. [Current Limitations](#current-limitations)
-13. [File Structure](#file-structure)
-14. [Technical Details](#technical-details)
 
 ---
 
