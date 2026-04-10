@@ -1,5 +1,5 @@
 """
-Advanced Reasoning Engine v3 — CoT / ToT / FoT Multi-Strategy.
+Advanced Reasoning Engine v2 — CoT / ToT / FoT Multi-Strategy.
 
 Architecture:
   Stage 1 — Problem Analysis
@@ -29,7 +29,7 @@ Architecture:
       · Force the LLM to follow the plan without deviating
       · Add domain-specific constraints and answer validators
 
-New in v3:
+New in v2:
   · Forest-of-Thought (FoT): 3-tree parallel hypothesis exploration
   · Enhanced CoT with explicit "Think step by step" anchors
   · Stronger ToT branch scoring for JEE advanced problem types
@@ -113,7 +113,7 @@ class ReasoningPlan:
 
     def summary(self) -> str:
         return (
-            f"[Reasoning-v3] domain={self.domain} | type={self.problem_type} "
+            f"[Reasoning-v2] domain={self.domain} | type={self.problem_type} "
             f"| mode={self.reasoning_mode} | confidence={self.confidence}"
         )
 
