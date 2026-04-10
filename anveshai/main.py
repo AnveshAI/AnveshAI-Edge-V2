@@ -1,6 +1,7 @@
 """
-AnveshAI Edge — v3
-==================
+====================
+AnveshAI Edge — v2
+====================
 Terminal-based offline-first AI tutor for JEE Advanced.
 Correctness-First pipeline: deterministic engines → LLM explanation.
 
@@ -455,7 +456,7 @@ def main() -> None:
 
     llm_engine    = LLMEngine()
     reasoning_eng = ReasoningEngine()
-    _system("✔  LLM engine ready (Qwen2.5-0.5B loads on first use)")
+    _system("✔  LLM engine ready (Qwen2.5-1.5B loads on first use)")
 
     _print(f"\n{Fore.WHITE}Type /help for commands or just start chatting!{Style.RESET_ALL}")
 
