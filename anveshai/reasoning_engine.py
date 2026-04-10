@@ -1,5 +1,5 @@
 """
-Advanced Reasoning Engine v2 — CoT / ToT / FoT Multi-Strategy.
+Advanced Reasoning Engine v2 — CoT / ToT Multi-Strategy.
 
 Architecture:
   Stage 1 — Problem Analysis
@@ -30,7 +30,6 @@ Architecture:
       · Add domain-specific constraints and answer validators
 
 New in v2:
-  · Forest-of-Thought (FoT): 3-tree parallel hypothesis exploration
   · Enhanced CoT with explicit "Think step by step" anchors
   · Stronger ToT branch scoring for JEE advanced problem types
   · Tree-of-Thought branching for multi-step problems
